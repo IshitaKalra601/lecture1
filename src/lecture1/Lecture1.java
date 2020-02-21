@@ -7,7 +7,7 @@ package lecture1;
 import java.util.Scanner;
 /**
  *
- * @author jyoti
+ * @author jyoti today's date is 21/2/20 
  */
 public class Lecture1 {
 
