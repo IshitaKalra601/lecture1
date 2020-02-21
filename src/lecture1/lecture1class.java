@@ -11,13 +11,15 @@ package lecture1;
  */
 public class lecture1class {
     public double radius;
+    public String name;
     public lecture1class(double r){
         radius = r;
     }
     public double areaCircle(){
         return 3.14*radius*radius;
-        
-        
+    }
+    public String names(){
+        return name;
     }
     
 }
